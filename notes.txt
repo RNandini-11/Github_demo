@@ -1,0 +1,11 @@
+commands:
+--------
+
+- git --version 
+
+configuratiion list:
+--------------------
+
+- git config --global user.name "RNandini-11"
+- git config --global user.email ""
+- git config --list
